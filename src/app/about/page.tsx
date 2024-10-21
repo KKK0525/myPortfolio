@@ -1,5 +1,4 @@
 import type { NextPage } from "next";
-
 const About: NextPage = () => {
   return (
     <main>
@@ -114,7 +113,7 @@ const About: NextPage = () => {
                               <div className="portfolio-item padd-15" data-category="web-design">
                                 <div className="portfolio-item-inner  shadow-dark">
                                   <div className="portfolio-img">
-                                    <img src="/imgs/alberta.jpg" alt="my university" />
+                                    <img src="/imgs/Alberta.jpg" alt="my university" />
                                   </div>
                                   <div className="portfolio-info">
                                     <h4>my university</h4>
