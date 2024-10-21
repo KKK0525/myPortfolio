@@ -107,7 +107,7 @@ const About: NextPage = () => {
                                   Alberta University
                                 </h4>
                                 <p className="timeline-text">
-                                    Bachelor's degree - Information Technology
+                                    Bachelor degree - Information Technology
                                 </p>
                             </div>
                             <div className="info-item-edu padd-15 ">
